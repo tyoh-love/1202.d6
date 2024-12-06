@@ -2,7 +2,10 @@
 
   $ npm create vite@latest my-vue-app -- --template react-ts
 
-  $ npm run dev     -> open browser
+  $ npm install    // -> 설치 
+  
+  $ npm run dev   //  -> 가이드에 따라서 앱 브라우저 열기 
+  
 
 
 #
