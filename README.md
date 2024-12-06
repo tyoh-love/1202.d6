@@ -1,11 +1,11 @@
-#설치 
+# 설치 
 
-$ npm create vite@latest my-vue-app -- --template react-ts
+  $ npm create vite@latest my-vue-app -- --template react-ts
 
-$ npm run dev     -> open browser
+  $ npm run dev     -> open browser
 
 
-
+#
 
 # React + TypeScript + Vite
 
