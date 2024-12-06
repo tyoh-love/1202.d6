@@ -1,3 +1,12 @@
+#설치 
+
+$ npm create vite@latest my-vue-app -- --template react-ts
+
+$ npm run dev     -> open browser
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
